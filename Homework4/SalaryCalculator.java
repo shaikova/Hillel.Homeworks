@@ -1,3 +1,4 @@
+package Homework4;
 
 public class SalaryCalculator {
     public static void main(String[] args) {

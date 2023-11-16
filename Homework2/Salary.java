@@ -1,3 +1,5 @@
+package Homework2;
+
 public class Salary {
     public static void main(String[] args) {
         double hoursPerWeek = Double.parseDouble(args[0]);

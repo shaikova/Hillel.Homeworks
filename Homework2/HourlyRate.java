@@ -1,3 +1,5 @@
+package Homework2;
+
 import java.util.Scanner;
 public class HourlyRate {
     public static void main(String[] args) {
