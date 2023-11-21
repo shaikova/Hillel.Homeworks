@@ -1,11 +1,9 @@
 package Homework7;
 
 // Базовий клас фігури
-public class Shape {
+public abstract class Shape {
     // Метод для обчислення площі фігури
-    public double calculateArea() {
-        return 0.0;
-    }
+    public abstract double calculateArea();
 }
 
 // Похідний клас - Коло
